@@ -1,6 +1,6 @@
 # FlexiMart Data Architecture Project
 
-**Student Name:** Riddhi Chawla 
+**Student Name:** Riddhi Chawla   
 **Student ID:** bitsom_ba_25071709  
 **Email:** riddhichawla2k2351@gmail.com  
 **Date:** 2026-01-04  

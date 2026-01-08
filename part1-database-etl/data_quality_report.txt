@@ -1,5 +1,5 @@
-Customers processed: 22, loaded: 20
-Products processed: 16, loaded: 15
-Sales processed: 35, loaded: 30
-Duplicates removed: 8
-Missing values handled: 14
+Customers processed: 25, loaded: 24
+Products processed: 20, loaded: 20
+Sales processed: 40, loaded: 34
+Duplicates removed: 2
+Missing values handled: 13

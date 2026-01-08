@@ -9,13 +9,13 @@
 This project implements an end-to-end data architecture solution for FlexiMart, an e-commerce company. It includes ETL pipelines, relational database design, NoSQL analysis using MongoDB, and a dimensional data warehouse with OLAP analytics.
 
 ## Repository Structure
-studentID-fleximart-data-architecture/
-├── README.md
-├── .gitignore
-├── data/
-├── part1-database-etl/
-├── part2-nosql/
-└── part3-datawarehouse/
+studentID-fleximart-data-architecture/  
+├── README.md  
+├── .gitignore  
+├── data/  
+├── part1-database-etl/  
+├── part2-nosql/  
+└── part3-datawarehouse/  
 
 ## Technologies Used
 - Python 3.x, pandas
